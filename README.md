@@ -52,7 +52,7 @@ Tudo foi feito **usando apenas CSS (SCSS) para desenhos, sombras, formas e anima
 
 1. Baixe ou clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/principe-raposa.git
+[git clone https://github.com/d/principe-raposa.git](https://github.com/dgarauj04/Prince-Fox)
 ```
 
 2. Abra o arquivo:
@@ -66,14 +66,14 @@ O projeto roda direto no navegador, sem necessidade de servidor local.
 Estou sempre criando animações, interfaces e projetos experimentais.
 Você pode ver outros trabalhos no meu CodePen:
 
-👉 CodePen: https://codepen.io/SEU-USUARIO-AQUI
+👉 CodePen: https://codepen.io/dgsaraujo
 
 
 ## 📬 Contato
 
 Se quiser trocar ideias, colaborar ou fazer indicações, estou disponível:
 
-- LinkedIn: https://www.linkedin.com/in/douglasdgprogdev
+- LinkedIn: https://www.linkedin.com/in/douglas-dgprogdev
 
 - Portfólio: https://dgaraujo-dev.vercel.app/
 
