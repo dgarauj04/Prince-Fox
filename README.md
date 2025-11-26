@@ -12,7 +12,7 @@ Tudo foi feito **usando apenas CSS (SCSS) para desenhos, sombras, formas e anima
 
 ## 🎨 Demonstração
 
-(Adicione aqui o link do deploy, se você publicar em Vercel, Netlify ou GitHub Pages)
+https://prince-fox.vercel.app/
 
 ---
 
@@ -52,7 +52,7 @@ Tudo foi feito **usando apenas CSS (SCSS) para desenhos, sombras, formas e anima
 
 1. Baixe ou clone o repositório:
 ```bash
-[git clone https://github.com/d/principe-raposa.git](https://github.com/dgarauj04/Prince-Fox)
+git clone https://github.com/dgarauj04/principe-raposa.git
 ```
 
 2. Abra o arquivo:
